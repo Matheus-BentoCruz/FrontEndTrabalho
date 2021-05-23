@@ -1,0 +1,26 @@
+.container {
+    color: var(--segunda-cor);
+    
+}
+fieldset{
+    margin-top: 50px;
+}
+.botao {
+    display: flex;
+    justify-content: flex-end;
+}
+img{
+
+    width: 25px;
+    height: 25px;
+}
+.ajuste2 img{
+
+    width: 150px;
+    height: 150px;
+    margin-top: 50px;  
+}
+.ajuste1, .ajuste2{
+    display: flex;
+    justify-content: center;  
+}
